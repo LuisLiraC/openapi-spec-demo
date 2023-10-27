@@ -6,6 +6,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: default
+  owner: guests
   definition:
     $text: https://github.com/LuisLiraC/openapi-spec-demo/blob/main/spec-demo.yml
